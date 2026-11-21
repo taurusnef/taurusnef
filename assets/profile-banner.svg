@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">taurusnef — Building useful digital products</title>
+  <desc id="desc">A minimalist light banner with a blue accent and geometric line art.</desc>
+  <rect width="1200" height="340" rx="24" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="12" height="340" rx="6" fill="#4569A8"/>
+  <g opacity="0.65" stroke="#D7DDE6" stroke-width="1">
+    <path d="M830 0V340M910 0V340M990 0V340M1070 0V340M1150 0V340"/>
+    <path d="M790 60H1200M790 140H1200M790 220H1200M790 300H1200"/>
+  </g>
+  <g fill="none" stroke="#A9B8CF" stroke-width="2">
+    <circle cx="1005" cy="170" r="104"/>
+    <circle cx="1005" cy="170" r="72"/>
+    <path d="M900 170H1110M1005 65V275"/>
+    <path d="M931 96L1079 244M1079 96L931 244" opacity="0.55"/>
+  </g>
+  <circle cx="1005" cy="170" r="12" fill="#4569A8"/>
+  <text x="76" y="85" fill="#4569A8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">TAURUSNEF  /  SOFTWARE &amp; PRODUCT BUILDING</text>
+  <text x="76" y="166" fill="#172033" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5">Building useful</text>
+  <text x="76" y="222" fill="#172033" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.5">digital products.</text>
+  <rect x="78" y="255" width="52" height="4" rx="2" fill="#4569A8"/>
+  <text x="146" y="263" fill="#647084" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.4">WEB DEVELOPMENT  ·  PRODUCT THINKING  ·  CONTINUOUS LEARNING</text>
+</svg>
