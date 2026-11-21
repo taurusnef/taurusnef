@@ -50,6 +50,14 @@ I enjoy turning practical ideas into focused web experiences — from learning t
 
 **Other tools and browser capabilities:** Canvas API · Local Storage · Web Speech API · JSZip · Git
 
+## GitHub activity
+
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub public activity statistics" />
+</p>
+
+<sub>Public GitHub activity is refreshed automatically each day by GitHub Actions. Private project repositories are not included in this public activity card.</sub>
+
 ## Current approach
 
 - Build around real workflows and practical needs.
