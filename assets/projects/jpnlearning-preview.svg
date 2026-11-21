@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="t d">
+<title id="t">JPNLearning interface preview</title>
+<desc id="d">Illustrative interface preview showing a Japanese learning dashboard, Hiragana lesson, and study progress.</desc>
+<rect width="960" height="600" rx="22" fill="#f7f7f4"/>
+<rect x="0" y="0" width="960" height="64" rx="22" fill="#fff"/>
+<path d="M0 64H960" stroke="#e6e9e7"/>
+<rect x="34" y="15" width="34" height="34" rx="10" fill="#1e6c67"/>
+<text x="51" y="39" fill="#fff" font-family="Arial,sans-serif" font-size="19" text-anchor="middle">あ</text>
+<text x="80" y="32" fill="#202d33" font-family="Arial,sans-serif" font-size="16" font-weight="700">JPNLearning</text>
+<text x="80" y="46" fill="#718087" font-family="Arial,sans-serif" font-size="8" letter-spacing="1.6">JAPANESE FOUNDATION · N5</text>
+<text x="766" y="38" fill="#718087" font-family="Arial,sans-serif" font-size="11">Your progress stays on this device</text>
+<circle cx="744" cy="33" r="4" fill="#58a985"/>
+<rect x="36" y="94" width="888" height="470" rx="20" fill="#edf3f0"/>
+<text x="68" y="134" fill="#1e6c67" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2">YOUR LEARNING SPACE</text>
+<text x="68" y="180" fill="#202d33" font-family="Arial,sans-serif" font-size="34" font-weight="700">Learn Japanese,</text>
+<text x="68" y="220" fill="#1e6c67" font-family="Arial,sans-serif" font-size="34" font-weight="700">one step at a time.</text>
+<text x="68" y="251" fill="#718087" font-family="Arial,sans-serif" font-size="13">Build a steady study habit with guided N5 lessons and practice.</text>
+<rect x="68" y="278" width="136" height="40" rx="9" fill="#1e6c67"/>
+<text x="136" y="303" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle">Continue learning</text>
+<rect x="218" y="278" width="125" height="40" rx="9" fill="#fff" stroke="#d9e0de"/>
+<text x="280" y="303" fill="#35474a" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle">View curriculum</text>
+<rect x="68" y="345" width="276" height="156" rx="16" fill="#fff" stroke="#e6e9e7"/>
+<text x="90" y="373" fill="#718087" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.4">TODAY'S KANA</text>
+<text x="206" y="447" fill="#1e6c67" font-family="Arial,sans-serif" font-size="78" text-anchor="middle">あ</text>
+<text x="206" y="476" fill="#435d5c" font-family="Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle">a · hiragana</text>
+<rect x="382" y="345" width="514" height="156" rx="16" fill="#fff" stroke="#e6e9e7"/>
+<text x="408" y="376" fill="#202d33" font-family="Arial,sans-serif" font-size="15" font-weight="700">Your N5 journey</text>
+<text x="408" y="396" fill="#718087" font-family="Arial,sans-serif" font-size="10">A little practice adds up.</text>
+<rect x="408" y="416" width="460" height="9" rx="5" fill="#e9efec"/>
+<rect x="408" y="416" width="184" height="9" rx="5" fill="#1e6c67"/>
+<text x="408" y="451" fill="#718087" font-family="Arial,sans-serif" font-size="10">Lessons completed</text>
+<text x="868" y="451" fill="#1e6c67" font-family="Arial,sans-serif" font-size="12" font-weight="700" text-anchor="end">25 / 62</text>
+<rect x="408" y="468" width="105" height="22" rx="6" fill="#e5f2ef"/>
+<text x="460" y="483" fill="#1e6c67" font-family="Arial,sans-serif" font-size="9" font-weight="700" text-anchor="middle">Smart Review</text>
+<rect x="526" y="468" width="112" height="22" rx="6" fill="#fae8dd"/>
+<text x="582" y="483" fill="#a96b4b" font-family="Arial,sans-serif" font-size="9" font-weight="700" text-anchor="middle">Mock Exam</text>
+<text x="68" y="537" fill="#8c9895" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.1">ILLUSTRATIVE PRODUCT PREVIEW</text>
+</svg>
