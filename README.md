@@ -15,19 +15,19 @@ I enjoy turning practical ideas into focused web experiences — from learning t
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>01 / LEARNING</strong>
+      <img src="assets/projects/jpnlearning-preview.svg" alt="JPNLearning interface preview" width="100%" />
       <h3>JPNLearning</h3>
-      <p>A self-paced Japanese learning platform for JLPT N5, with lessons, listening practice, smart review, and timed exercises.</p>
+      <p>A self-paced Japanese learning platform for JLPT N5, with guided lessons, listening practice, visual vocabulary, Smart Review, and timed exercises.</p>
       <sub>Next.js · React · TypeScript</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>02 / CREATIVE TOOLING</strong>
+      <img src="assets/projects/storybatch-studio-preview.svg" alt="StoryBatch Studio interface preview" width="100%" />
       <h3>StoryBatch Studio</h3>
-      <p>A browser-based batch editor for turning product photos into consistent 9:16 designs, with editable text and ZIP export.</p>
+      <p>A browser-based batch editor for creating consistent 9:16 product content, with editable text layers, reusable presets, and ZIP export.</p>
       <sub>Next.js · React · JSZip · Canvas API</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>03 / CUSTOMER EXPERIENCE</strong>
+      <img src="assets/projects/omisora-preview.svg" alt="Omisora.JPN Web interface preview" width="100%" />
       <h3>Omisora.JPN Web</h3>
       <p>A customer order-tracking portal for order status, payment summaries, trip details, and shipping updates.</p>
       <sub>Next.js · React · TypeScript · Tailwind CSS</sub>
@@ -35,7 +35,7 @@ I enjoy turning practical ideas into focused web experiences — from learning t
   </tr>
 </table>
 
-<sub>Project source repositories are currently private.</sub>
+<sub>Preview artwork is an illustrative representation of each product interface, not a captured application screenshot. The Omisora preview uses sample data only. Project source repositories are currently private.</sub>
 
 ## Technology
 
