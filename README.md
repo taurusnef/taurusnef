@@ -54,9 +54,10 @@ I enjoy turning practical ideas into focused web experiences — from learning t
 
 <p align="center">
   <img src="profile/stats.svg" alt="GitHub public activity statistics" />
+  <img src="profile/top-langs.svg" alt="Public GitHub language distribution" />
 </p>
 
-<sub>Public GitHub activity is refreshed automatically each day by GitHub Actions. Private project repositories are not included in this public activity card.</sub>
+<sub>Cards are refreshed automatically each day by GitHub Actions. They reflect public repository activity and language data only; private project repositories are excluded.</sub>
 
 ## Current approach
 
