@@ -26,10 +26,18 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated card
+      - name: Generate public language distribution
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&title_color=4569A8&text_color=647084&bg_color=F7F8FA
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
-          git diff --cached --quiet || git commit -m "chore: refresh public GitHub stats"
+          git add profile/stats.svg profile/top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: refresh public GitHub profile cards"
           git push
