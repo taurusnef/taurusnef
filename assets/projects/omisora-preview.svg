@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="t d">
+<title id="t">Omisora.JPN Web interface preview</title>
+<desc id="d">Illustrative order tracking portal with an order lookup form, order status, payment summary, and trip information.</desc>
+<rect width="960" height="600" rx="22" fill="#f7f2ea"/>
+<rect x="0" y="0" width="960" height="64" rx="22" fill="#fffdf9"/>
+<path d="M0 64H960" stroke="#e6ddd2"/>
+<rect x="34" y="14" width="38" height="36" rx="10" fill="#5a3f2d"/>
+<path d="M44 39Q53 24 62 39" fill="none" stroke="#fff8ef" stroke-width="2"/>
+<text x="84" y="34" fill="#4b3425" font-family="Georgia,serif" font-size="19" font-weight="700">omisora.jpn</text>
+<text x="84" y="47" fill="#9a826e" font-family="Arial,sans-serif" font-size="8" letter-spacing="1.5">CUSTOMER ORDER PORTAL</text>
+<text x="810" y="38" fill="#9a826e" font-family="Arial,sans-serif" font-size="10">Order tracking</text>
+<rect x="36" y="92" width="888" height="168" rx="20" fill="#fffdf9" stroke="#e6ddd2"/>
+<circle cx="840" cy="127" r="74" fill="#eadbcb" opacity=".42"/>
+<text x="68" y="125" fill="#9a826e" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="2">FIND YOUR ORDER</text>
+<text x="68" y="166" fill="#4b3425" font-family="Georgia,serif" font-size="29" font-weight="700">Masukkan Order ID</text>
+<text x="68" y="190" fill="#806f60" font-family="Arial,sans-serif" font-size="11">Lihat status terbaru, ringkasan pembayaran, dan informasi pengiriman.</text>
+<rect x="68" y="210" width="580" height="34" rx="9" fill="#fffdf9" stroke="#dccfc0"/>
+<circle cx="87" cy="227" r="6" fill="none" stroke="#9a826e" stroke-width="1.5"/>
+<path d="M92 232L97 237" stroke="#9a826e" stroke-width="1.5"/>
+<text x="108" y="231" fill="#b5a89d" font-family="Arial,sans-serif" font-size="10">Contoh: OMS-20261201-0042</text>
+<rect x="660" y="210" width="152" height="34" rx="9" fill="#5a3f2d"/>
+<text x="736" y="231" fill="#fff" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">Cari Order  →</text>
+<rect x="36" y="284" width="888" height="111" rx="18" fill="#5a3f2d"/>
+<text x="68" y="316" fill="#ffffff" opacity=".62" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="2">YOUR ORDER · SAMPLE DATA</text>
+<text x="68" y="353" fill="#fffdf9" font-family="Georgia,serif" font-size="26" font-weight="700">Halo, Customer</text>
+<text x="68" y="375" fill="#fff" opacity=".7" font-family="Arial,sans-serif" font-size="10">Berikut status terbaru dari perjalanan pesananmu di Omisora.JPN.</text>
+<rect x="744" y="325" width="146" height="34" rx="17" fill="#eef4ed" stroke="#cfdccf"/>
+<circle cx="763" cy="342" r="5" fill="#5f865f"/>
+<text x="824" y="346" fill="#4e6b4f" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle">Pesanan selesai</text>
+<rect x="36" y="419" width="430" height="132" rx="16" fill="#fffdf9" stroke="#e6ddd2"/>
+<text x="60" y="449" fill="#9a826e" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.5">PAYMENT SUMMARY</text>
+<text x="60" y="481" fill="#4b3425" font-family="Georgia,serif" font-size="19" font-weight="700">Ringkasan pembayaran</text>
+<text x="60" y="511" fill="#806f60" font-family="Arial,sans-serif" font-size="10">Total tagihan</text>
+<text x="442" y="511" fill="#4b3425" font-family="Arial,sans-serif" font-size="11" font-weight="700" text-anchor="end">Rp 1.250.000</text>
+<text x="60" y="533" fill="#806f60" font-family="Arial,sans-serif" font-size="10">Status pembayaran</text>
+<text x="442" y="533" fill="#4e6b4f" font-family="Arial,sans-serif" font-size="11" font-weight="700" text-anchor="end">Lunas</text>
+<rect x="484" y="419" width="440" height="132" rx="16" fill="#fffdf9" stroke="#e6ddd2"/>
+<text x="508" y="449" fill="#9a826e" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.5">TRIP INFORMATION</text>
+<text x="508" y="481" fill="#4b3425" font-family="Georgia,serif" font-size="19" font-weight="700">Japan · Tokyo</text>
+<circle cx="533" cy="514" r="5" fill="#5a3f2d"/>
+<path d="M538 514H857" stroke="#cbb9a8" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle cx="862" cy="514" r="5" fill="#5a3f2d"/>
+<text x="508" y="538" fill="#806f60" font-family="Arial,sans-serif" font-size="9">Departure</text>
+<text x="888" y="538" fill="#806f60" font-family="Arial,sans-serif" font-size="9" text-anchor="end">Return</text>
+<text x="36" y="580" fill="#9a826e" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.1">ILLUSTRATIVE PRODUCT PREVIEW · ALL ORDER DETAILS ARE SAMPLE DATA</text>
+</svg>
